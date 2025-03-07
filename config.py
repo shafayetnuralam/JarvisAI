@@ -1,2 +1,2 @@
 # todo: Add your api key here
-apikey = "Your-Open-AI-Key"
+apikey = "AIzaSyCS9KJ8eWyFtihyol_uvOs08enSoelgLik"
